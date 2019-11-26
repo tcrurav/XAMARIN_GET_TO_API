@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="AppXamarinCrud.BicyclePage" 
+			 Title="Todo">
+	<StackLayout Margin="20">
+		<Label Text="Model" />
+		<Entry Text="{Binding Path=Model}" 
+               Placeholder="Enter model" />
+		<Label Text="Year" />
+        <Entry Text="{Binding Path=Year}"
+               Placeholder="Enter year" />
+        <Button Text="Save" 
+                Clicked="OnSaveButtonClicked" />
+		<Button Text="Delete"
+                Clicked="OnDeleteButtonClicked" />
+		<Button Text="Cancel" 
+                Clicked="OnCancelButtonClicked" />
+	</StackLayout>
+</ContentPage>

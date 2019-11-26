@@ -6,11 +6,12 @@ namespace AppXamarinCrud
 {
     public partial class App : Application
     {
+        public static BicycleManager BicycleManager { get; private set; }
+
         public App()
         {
-            InitializeComponent();
-
-            MainPage = new MainPage();
+            BicycleManager = new BicycleManager(new RestService());
+            MainPage = new NavigationPage(new BicycleListPage());
         }
 
         protected override void OnStart()

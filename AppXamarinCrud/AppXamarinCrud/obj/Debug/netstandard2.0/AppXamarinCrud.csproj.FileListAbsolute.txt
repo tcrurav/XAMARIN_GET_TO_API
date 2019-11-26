@@ -4,10 +4,11 @@ C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\bin\Deb
 C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\bin\Debug\netstandard2.0\AppXamarinCrud.pdb
 C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\AppXamarinCrud.csprojAssemblyReference.cache
 C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\Views\BicycleListPage.xaml.g.cs
+C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\Views\BicyclePage.xaml.g.cs
 C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\AppXamarinCrud.AssemblyInfoInputs.cache
 C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\AppXamarinCrud.AssemblyInfo.cs
+C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\AppXamarinCrud.dll
 C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\ref\AppXamarinCrud.dll
 C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\AppXamarinCrud.pdb
-C:\Users\tibur\source\repos\AppXamarinCrud\AppXamarinCrud\AppXamarinCrud\obj\Debug\netstandard2.0\XamlC.stamp
